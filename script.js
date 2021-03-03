@@ -40,7 +40,7 @@ function clickProduct() {
 
 function theMouseOver() {
     console.log("Hover");
-    this.style.stroke = "darkblue";
+    this.style.stroke = "orange";
 }
 
 function theMouseOut() {
